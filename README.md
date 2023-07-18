@@ -54,15 +54,7 @@ through the social networks:
 | IDEAs:                       | ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge) ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white&style=for-the-badge) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white&style=for-the-badge)  ![EclipsIDE](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse%20IDE&logoColor=white&style=for-the-badge)                                                                                                                                                        |
 | Blockchain & CryptoCurrency: | ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=Bitcoin&logoColor=white&style=for-the-badge) ![Ethereum](https://img.shields.io/badge/Ethereum-3d3d3d?logo=Ethereum&logoColor=white&style=for-the-badge)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
----
 
-### 🏅 GitHub States:
-
-<p align="center"><br>
-<a href="https://github.com/yosefha4">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yosefha4&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
 

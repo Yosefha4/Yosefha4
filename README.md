@@ -4,7 +4,7 @@
 👋 Hey 
 #### I'm Yosef, a dedicated software engineer with a passion for:
 
-- Developing web and mobile applications using JavaScript, React, and Node.js.
+- Developing web, mobile and desktop applications using JavaScript, React, Node.js, Python and C# .
 - Creating captivating cross-platform mobile apps with Expo React Native.
 - Building robust APIs using Python Flask and Node.js.
 - Crafting visually stunning and responsive user interfaces using HTML and CSS.

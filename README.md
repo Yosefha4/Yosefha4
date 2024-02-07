@@ -6,9 +6,9 @@
 
 - Developing web, mobile and desktop applications using JavaScript, React, Node.js, Python and C# .
 - Creating captivating cross-platform mobile apps with Expo React Native.
-- Building robust APIs using Python Flask and Node.js.
+- Building robust APIs using Python Flask, ASP.NET and Node.js.
 - Crafting visually stunning and responsive user interfaces using HTML and CSS.
-- Leveraging MongoDB and Firebase for efficient and scalable database solutions.
+- Leveraging MongoDB, SQL-Server, PostgreSQL and Firebase for efficient and scalable database solutions.
 - Utilizing Git for seamless version control and Jira for effective project management.
 - Thriving in collaborative, agile team environments, valuing communication and continuous improvement.
 - Continuously learning and exploring new technologies to enhance my skills.

@@ -4,12 +4,12 @@
 👋 Hey 
 #### I'm Yosef, a dedicated software engineer with a passion for:
 
-- Developing web, mobile and desktop applications using JavaScript, React, Node.js, Python and C# .
-- Creating captivating cross-platform mobile apps with Expo React Native.
-- Building robust APIs using Python Flask, ASP.NET and Node.js.
-- Crafting visually stunning and responsive user interfaces using HTML and CSS.
+- Developing web, mobile and desktop applications using JavaScript (ReactJS, NodeJS, ExpressJS, NextJS), Python (Flask, Django) and C# (ASP.NET / CORE).
+- Creating captivating cross-platform mobile apps with React Native.
+- Building robust APIs using Python Flask, and Node.js & Express.js.
+- Crafting visually stunning and responsive user interfaces using HTML, CSS and MUI.
 - Leveraging MongoDB, SQL-Server, PostgreSQL and Firebase for efficient and scalable database solutions.
-- Utilizing Git for seamless version control and Jira for effective project management.
+- Utilizing GitHub for seamless version control and Jira/Monday for effective project management.
 - Thriving in collaborative, agile team environments, valuing communication and continuous improvement.
 - Continuously learning and exploring new technologies to enhance my skills.
 
@@ -19,8 +19,6 @@ I'm excited to collaborate on exciting projects and engage in enlightening discu
 
 📧 Yosef050468@gmail.com <br/>
 
-My LinkedIn page:<br/>
-💻 https://www.linkedin.com/in/yosef-haimjan/
 
 ---
 

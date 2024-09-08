@@ -4,9 +4,9 @@
 👋 Hey 
 #### I'm Yosef, a dedicated software engineer with a passion for:
 
-- Developing web, mobile and desktop applications using JavaScript (ReactJS, NodeJS, ExpressJS, NextJS), Python (Flask, Django) and C# (ASP.NET).
+- Developing web & mobile applications using JavaScript (ReactJS, NodeJS, ExpressJS, NextJS), Python (Flask, Django) and C# (ASP.NET).
 - Creating captivating cross-platform mobile apps with React Native.
-- Building robust APIs using Python Flask, and Node.js & Express.js.
+- Building robust APIs using Python Flask, and Node.js with Express.
 - Crafting visually stunning and responsive user interfaces using HTML, CSS and MUI.
 - Leveraging MongoDB, SQL-Server, PostgreSQL and Firebase for efficient and scalable database solutions.
 - Utilizing GitHub for seamless version control and Jira/Monday for effective project management.

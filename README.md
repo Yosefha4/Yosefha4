@@ -5,7 +5,7 @@
 #### I'm Yosef, a dedicated software engineer with a passion for:
 
 - Developing web & mobile applications using JavaScript (ReactJS, NodeJS, ExpressJS, NextJS) & Python (Flask, Django).
-- Creating captivating cross-platform mobile apps with React Native.
+- Utilizing AI technologies such as OpenAI API, Cursor AI, GitHub Copilot, to improve code quality and integrate smart capabilities into applications.
 - Building robust APIs using Python Flask, and Node.js with Express.
 - Crafting visually stunning and responsive user interfaces using HTML, CSS and MUI.
 - Leveraging MongoDB, SQL (MSSQL), PostgreSQL and Firebase for efficient and scalable database solutions.

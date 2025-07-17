@@ -2,7 +2,7 @@
 
 
 👋 Hey 
-#### I'm Yosef, a dedicated software engineer with a passion for:
+####  I’m Yosef, a results-oriented software engineer focused on:
 
 - Developing web & mobile applications using JavaScript (ReactJS, NodeJS, ExpressJS, NextJS) & Python (Flask, Django).
 - Utilizing AI technologies such as OpenAI API, Cursor AI, GitHub Copilot, to improve code quality and integrate smart capabilities into applications.
